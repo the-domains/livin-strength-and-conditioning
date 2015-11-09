@@ -1,6 +1,6 @@
 name: 'Livin Strength & Conditioning'
 favicon: null
-layout_spectrum: 0.30658796010538936
+layout_spectrum: 0
 typography_spectrum: 0.8793340581469238
 title: 'Livin Strength & Conditioning'
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.1875
+  brandStrength: 1
   lightness: 0.3943592004943639
   saturation: 0.7520461140666157
   rhythmicContrast: 0.2632440796587616
